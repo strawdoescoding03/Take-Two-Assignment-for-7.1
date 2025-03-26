@@ -32,7 +32,7 @@
             while (!done)
             {
 
-
+                 
 
                 Console.WriteLine("You have " + userWallet.ToString("C"));
                 Console.Write("Place your bet: ");
